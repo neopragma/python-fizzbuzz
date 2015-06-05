@@ -12,9 +12,16 @@ Clone this repo:
 git clone [path-to-repository]/python-fizzbuzz
 ```
 
-Run the initial test case:
+Run the initial test case (Linux):
 
 ```shell
 . envvars
 ./run-tests
+```
+
+Run the initial test case (Windows):
+
+```shell
+setpath
+runwin
 ```
