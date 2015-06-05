@@ -1,0 +1,1 @@
+export PYTHONPATH=src/main/python:src/test/python
